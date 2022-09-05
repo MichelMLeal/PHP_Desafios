@@ -1,0 +1,8 @@
+{
+	"name": "michel/desafios",
+	"autoload": {
+		"psr-4": {
+			"Src\\": "src/"
+		}
+	}
+}
