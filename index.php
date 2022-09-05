@@ -50,8 +50,7 @@ try {
 	echo "<br>";
 	echo "<br>";
 
-	$american =  MyDate::toAmerican('31/08/2022');
-	
+	$american =  MyDate::toAmerican('31/08/2022');	
 	echo 'Padrão americano: '.$american;
 	echo "<br>";
 
